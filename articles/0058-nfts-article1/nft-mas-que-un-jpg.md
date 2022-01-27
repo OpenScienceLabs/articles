@@ -14,7 +14,7 @@ Recientemente, se hizo viral el hecho de que en un torrent estaban todos los NFT
 
 NFT es mucho más que una imagen, o un video, o una canción. Es la representación digital de una propiedad. Imagina un sistema totalmente independiente, inmutable, donde se reconoce tu propiedad. Por el momento lo que está pegando, es arte, más específico, artes visuales digitales (imágenes y videos). Sin embargo, no te extrañes ver campañas de NFT que sean mucho más que imágenes, que podrían ser canciones, películas, cortos y lo que puedas imaginar digital.
 
-Dejando claro que es mucho más que una imagen, entonces podemos decir que un NFT es un registro de propiedad, validado por una cadena de bloques, descentralizada e inmutable, que nunca caducará. Creo que en este punto la pregunta es: ¿Qué no podría ser un NFT?, bueno, hay muchas cosas que no pueden ser digitales, pero imagina todo lo que si pueden, y todo lo que ya lo es.
+Dejando claro que es mucho más que una imagen, entonces podemos decir que un NFT es un registro de propiedad, validado por una cadena de bloques, descentralizada e inmutable, que nunca caducará. Creo que en este punto la pregunta es: ¿Qué no podría ser un NFT?, bueno, hay muchas cosas que no pueden ser digitales, pero imagina todo lo que sí pueden, y todo lo que ya lo es.
 
 Leí el caso de un músico que creó su proyecto, su propio token, en vez de ser bitcoin o eth, y lo usó para juntar fondos para su disco. Los fans pudieron dar apoyo a su artista favorito, colaborando a su crowdfunding, y obtienen cierta cantidad del token del artista (un NFT). Al tener ingresos por su nuevo álbum, el artista le dio parte de las regalías a los que tenían los NFTs. 
 
