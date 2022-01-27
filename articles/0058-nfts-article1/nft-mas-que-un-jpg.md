@@ -29,7 +29,7 @@ Hay muchas opiniones al respecto, y como en cualquier tema te recomiendo hacer t
 
 Personalmente, pienso que si esto es una burbuja, los precios son ridículamente altos y eventualmente se normalizarán. 
 
-Es importante entender que, la burbuja aquí es el precio, no la tecnología. y esta tecnología vino para quedarse. 
+Es importante entender que, la burbuja aquí es el precio, no la tecnología, y esta tecnología vino para quedarse. 
 
 ![Burbuja de las .com](dotcom-bubble.webp "Bubuja de las .com")
 
