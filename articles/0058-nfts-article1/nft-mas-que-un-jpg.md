@@ -35,7 +35,7 @@ Es importante entender que, la burbuja aquí es el precio, no la tecnología, y 
 
 La burbuja de las “.com” es algo que resuena cuando se habla de este punto. Cuando vino la tecnología de la web 2.0, se creó una burbuja, que explotó y apenas 2 de cada 10 compañías sobrevivieron. Sin embargo, la tecnología se quedó, y nos dio los gigantes tech que tenemos hoy en día como: google, facebook, twitter, etc.
 
-Claro, el NFT actual, hace una intersección entre dos mundos que no todos tenemos acceso, el invertir cantidades ridículamente altas de dinero en arte, y la tecnología disruptiva que no está lista para ser mainstream. Si le quitamos la tecnología, solo nos queda gente gastando un montón de dinero en representaciones visuales que son interpretadas. Y eso ya pasa, hay pinturas, y arte moderno que hoy en día se venden por precios ridículamente altos. Así que el consejo es, no le busques el sentido al precio del arte, entiende la tecnología por detrás, y no te dejes engañar o cegar por JPGs de millones de dólares.
+Claro, el NFT actual hace una intersección entre dos mundos que no todos tenemos acceso, el invertir cantidades ridículamente altas de dinero en arte, y la tecnología disruptiva que no está lista para ser mainstream. Si le quitamos la tecnología, solo nos queda gente gastando un montón de dinero en representaciones visuales que son interpretadas. Y eso ya pasa, hay pinturas y arte moderno que hoy en día se venden por precios ridículamente altos. Así que el consejo es, no le busques el sentido al precio del arte, entiende la tecnología por detrás, y no te dejes engañar o cegar por JPGs de millones de dólares.
 
 
 ## Siguenos en nuestras redes sociales
