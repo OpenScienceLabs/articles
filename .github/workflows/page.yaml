@@ -13,6 +13,10 @@ on:
 jobs:
   deploy-book:
     runs-on: ubuntu-latest
+    timeout-minutes: 20
+    defaults:
+      run:
+        shell: bash -l {0}
     steps:
     - uses: actions/checkout@v2
 
