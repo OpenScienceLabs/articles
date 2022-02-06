@@ -2,6 +2,8 @@
 
 **Por Yurely Camacho**
 
+<img src="header.jpg" alt="header" height="530"/>
+
 Los datos se consideran, y así debe ser, la materia prima para realizar
 distintas actividades como la investigación, la toma de decisiones
 basadas en estadísticas, la divulgación de información, la colaboración
