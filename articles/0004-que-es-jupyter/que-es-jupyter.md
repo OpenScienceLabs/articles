@@ -2,7 +2,6 @@
 
 **Por Rainer Palm**
 
-
 <img src="header.jpg" alt="header" height="530"/>
 
 ¿Quieres llevar tus artículos a un formato mas intuitivo, legible y facíl de editar? [Jupyter Notebook](https://jupyter.org) es una aplicación web que te deja incorporar en tus documentos elementos de código abierto y de texto enriquecido de una forma sencilla y fluida, que además facilita que otras personas colaboren en tu investigación. Utilizar estos elementos permitirá que tanto tu como tus lectores puedan no solamente ver la descripción y resultados de tu analísis de una forma mas gráfica, sino hacerlo en tiempo real, algo especialmente útil para garantizar la reproducibilidad de tus resultados.
