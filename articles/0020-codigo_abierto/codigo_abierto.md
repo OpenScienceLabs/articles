@@ -2,7 +2,7 @@
 
 **Por Anavelyz Pérez**
 
-![header](header.jpg)
+![header](header.png)
 
 Cuando escuchamos la palabra *código* podríamos pensar que se trata de algo
 oculto y secreto, en una contraseña o simplemente algún identificador. Sin

@@ -1,6 +1,6 @@
 # Todas las posibilidades que te ofrece utilizar figshare en tus proyectos
 
-<img src="header.svg" alt="header" height="530"/>
+![header](header.png)
 
 ¿Qué es figshare?
 

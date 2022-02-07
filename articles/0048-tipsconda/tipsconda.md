@@ -2,7 +2,7 @@
 
 **Por Yurely Camacho**
 
-<img src="header.svg" alt="header" height="530"/>
+![header](header.png)
 
 Si posees algún conocimiento sobre conda o visitaste anteriormente
 nuestro artículo sobre Cómo instalar y comenzar a utilizar Conda (enlace

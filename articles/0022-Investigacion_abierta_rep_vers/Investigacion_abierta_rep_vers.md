@@ -2,7 +2,7 @@
 
 **Por Anavelyz Perez**
 
-<img src="header.png" alt="header" height="530"/>
+![header](header.png)
 
 Las investigaciones son esenciales en el avance tecnológico y social porque nos
 permiten encontrar respuestas a muchas dudas e hipótesis que surgen diariamente

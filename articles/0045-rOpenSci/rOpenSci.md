@@ -2,7 +2,7 @@
 
 **Por Yurely Camacho**
 
-<img src="header.svg" alt="header" height="530"/>
+![header](header.png)
 
 Para compartir, almacenar y divulgar de una manera fácil los datos y
 resultados de las investigaciones, los científicos deben contar con

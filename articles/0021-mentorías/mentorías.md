@@ -2,7 +2,7 @@
 
 **Por Yurely Camacho**
 
-![header](header.jpg)
+![header](header.png)
 
 La competitividad y los deseos de superación a nivel personal, profesional y
 laboral impulsan los deseos individuales por aprender continuamente para afianzar

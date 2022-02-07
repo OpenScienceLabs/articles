@@ -2,7 +2,7 @@
 
 **Por Yurely Camacho**
 
-![header](header.jpg)
+![header](header.png)
 
 Si estas interesado en practicar la ciencia abierta o simplemente
 quieres o necesitas conocer más acerca del tema, resulta de suma

@@ -2,7 +2,7 @@
 
 **Por Anavelyz Perez**
 
-![header](header.jpg)
+![header](header.png)
 
 La investigación abierta despliega nuevos horizontes en distintos niveles,
 económicos, sociales, industriales, politicos e incluso en las ciencias puras.

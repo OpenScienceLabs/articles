@@ -2,7 +2,7 @@
 
 **Por Yurely Camacho**
 
-![header](header.jpg)
+![header](header.png)
 
 En artículos anteriores publicados, te hablamos sobre Git de 0 a 100 e
 investigación colaborativa con Git. Allí hemos repasado sobre las

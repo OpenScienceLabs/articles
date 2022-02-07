@@ -2,7 +2,7 @@
 
 **Por Rainer Palm**
 
-![header](header.jpg)
+![header](header.png)
 
 ¿Estás interesado en integrar un poco de programación en tu rutina cotidiana?, ¿Necesitas aprovechar de la versatilidad y eficiencia que te otorga manejar con fluidez codigo?, ¿O simplemente quieres aprovechar de la utilidad de poder realizar análisis computacional?. Sea cual sea la razón, te podrías estar preguntando por donde empezar. Habiendo tantos lenguajes de programación disponibles, con una cantidad prácticamente infinita de usos, puede serte difícil decidir con cuál empezar a aprender o cuál aportará más a tu trabajo.
 

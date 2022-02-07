@@ -2,7 +2,7 @@
 
 **Por Anavelyz Perez**
 
-![header](header.jpg)
+![header](header.png)
 
 El acceso abierto es un término que se utiliza para definir aquellos proyectos
 que están disponibles para todo público de forma libre y gratuita, en Internet o
