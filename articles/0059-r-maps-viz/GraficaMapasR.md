@@ -2,7 +2,7 @@
 
 ![header](header.png)
 
-Autor: [Ever Vino](https://github.com/EverVino)
+**Autor**: [Ever Vino](../../authors/ever-vino.md)
 
 Este breve tutorial te mostrará como graficar mapas en R, extaer datos de archivos de formato shapefile, resaltar puntos en tu mapa y modificar su apariencia utilizando las bibliotecas `rgdal` y `ggplot2`.
 
