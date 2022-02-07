@@ -1,6 +1,6 @@
 # Dibuja tus mapas en R usando archivos de formato Shapefile
 
-![Mapamundi](header.png)
+![header](header.png)
 
 Autor: [Ever Vino](https://github.com/EverVino)
 
